@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.title {
+    color: #9A3B3B;
+    font-size: 35px;
+}
+
+.second-title {
+    color: #a17425;
+}
+
+ul.one {
+    list-style-type: none;
+}
+
+.one {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+a.zuhalmuzik {
+    color: #C08261;
+}
+
+ul.products {
+    list-style-position: inside;
+}
+
+img {
+    height: 450px;
+}
+
+.member-name {
+    color: #E2C799;
+}
+
+.old-member-name {
+    color: #6d3500;
+}
