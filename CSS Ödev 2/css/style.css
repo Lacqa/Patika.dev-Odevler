@@ -1,0 +1,52 @@
+#logo {
+    margin: 0 auto;
+    height: 113px;
+    width: 351px;
+}
+
+#center {
+    background-color: #EEEEEE;
+    text-align: center;
+    width: 1500px;
+    height: 60px;
+    margin: 0 auto;
+}
+
+#center > p {
+    margin-bottom: -2px;
+}
+
+.bottom {
+    width: 1500px;
+    height: 75px;
+    margin: 2px auto 0 auto;
+}
+
+.special {
+    width: 35%;
+    background-color: rgb(126, 229, 218);
+    padding: 10px;
+    float: left;
+}
+
+.help {
+    width: 19%;
+    background-color: rgb(112, 204, 194);
+    float: left;
+    padding: 5px;
+    margin: auto 2px;
+    font-size: 14px;
+}
+
+.getgoogle {
+    width: 43%;
+    background-color: rgb(98, 179, 170);
+    float: left;
+    font-size: 14px;
+}
+
+.title {
+    margin: 0px;
+}
+
+
