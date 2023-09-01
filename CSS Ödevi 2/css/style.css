@@ -19,7 +19,7 @@
 .bottom {
     width: 1500px;
     height: 75px;
-    margin: 2px auto 0 auto;
+    margin: 2px auto 13px auto;
 }
 
 .special {
@@ -49,4 +49,6 @@
     margin: 0px;
 }
 
-
+footer {
+    font-size: 13px;
+}
